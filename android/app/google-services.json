@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "544110226932",
+    "project_id": "food-delivery-e8636",
+    "storage_bucket": "food-delivery-e8636.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544110226932:android:d26ff2fce8bab72fb75da1",
+        "android_client_info": {
+          "package_name": "moabnaser.food_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544110226932-qonccnr0l55cse8kf2alcrmuf606ak24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwsyRPH-7qqwnpBhJzfTN5oDWUirRzFlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544110226932-qonccnr0l55cse8kf2alcrmuf606ak24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
